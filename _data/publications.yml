@@ -1,0 +1,72 @@
+# How to add a new publication:
+#
+# 1. Copy an existing entry below.
+# 2. Change year, text, doi, and status.
+# 3. Use **bold** for your name, *italics* for journal/species names.
+# 4. Set status to "published" or "in_review".
+# 5. Leave doi blank (remove the line) for in-review papers.
+#
+# Published papers are automatically grouped by year, newest first.
+
+- year: 2025
+  status: published
+  text: "Heckley, AM., Montiglio, PO., Fox, JA., **Sanderson, S**., Derry, AM., Gotanda, KM., and Hendry, AP. (2025) Abiotic environmental factors contribute to spatial variation in boldness and exploration in guppies (*Poecilia reticulata*). *Journal of Fish Biology*. 1-13."
+  doi: "http://doi.org/10.1111/jfb.70058"
+
+- year: 2025
+  status: published
+  text: "**Sanderson, S**., Haines, G.E., Reimchen, T.E., Burton, A.C., Beirne, C., and Hendry, A.P. (2025). Inferring bird communities on remote freshwater lakes through time-lapse imagery. *Canadian Journal of Zoology*."
+  doi: "https://doi.org/10.1139/cjz-2024-0084"
+
+- year: 2025
+  status: published
+  text: "Gorné, L. D., Hendry, A. P., Pelletier, F., **Sanderson, S.**, Correa, C., Arias, C., Beausoleil, M., Boisjoly, M., Crispo, E., Berner, D., De León, L. F., DiBattista, J. D., Haines, G. E., Haller, B. C., Kinnison, M. T., Muttalib, S., McKellar, A. E., O'Dea, R. E., Reyes-Corral, W. D., Ritchot, Y., Oke, K. B., Wood, Z. T., Farrugia, T., and Gotanda, K. M. (2025) PROCEED v6: Phenotypic rates of change evolutionary and ecological database *Ecology.* 106(3)."
+  doi: "http://dx.doi.org/10.1002/ecy.70009"
+
+- year: 2024
+  status: published
+  text: "Hendry, A., Barrett, R., Bell, Al., Bell, M., Bolnick, D., Gotanda, K., Haines, G., Lind, A., Packer, M., Peichel, C., Peterson, C., Poore, H., Massengill, R., Milligan-McClennan, K., Steinel, N., **Sanderson, S.**, Walsh, M., Weber, J., and Derry, A. (2024). Designing eco-evolutionary experiments for restoration projects: opportunities and constraints revealed during stickleback introductions. *Ecology and Evolution*. 14(3), e11503."
+  doi: "https://doi.org/10.1002/ece3.11503"
+
+- year: 2023
+  status: published
+  text: "**Sanderson, S**., Astorg, L., Haines, G.E., Beaumont-Courteau, S., Langerhans, B.R., Derry, A.M., and Hendry, A.P. (2023) Freshwater fishes maintain multi-trait phenotypic stability across an environmental gradient in aqueous calcium. *Journal of Fish Biology*. 11 (11), 143-154."
+  doi: "https://doi.org/10.1111/jfb.15412"
+
+- year: 2023
+  status: published
+  text: "**Sanderson, S**., Bolnick, B.I., Kinnison, M.T., O'Dea, R.E., Gorné, L.D., Hendry, A.P., and Gotanda, K.M. (2023) Contemporary changes in phenotypic variation and the potential consequences for eco-evolutionary dynamics. *Ecology Letters*. 26, S127-S139."
+  doi: "http://doi.org/10.1111/ele.14186"
+
+- year: 2022
+  status: published
+  text: "**Sanderson, S**., Beausoleil, M.O., O'Dea, R.E., Wood, Z.T., Correa, C., Frankel, V., Gorné, L. D., Haines, G.E., Kinnison, M.T., Oke, K.B., Pelletier, F., Pérez-Jvostov, F., Reyes-Corral, W.D., Ritchot, Y., Sorbara, F., Gotanda, K.M., and Hendry, A.P. (2022) The pace of modern life, revisited. *Molecular Ecology.* 31 (4), 1028-1043."
+  doi: "https://doi.org/10.1111/mec.16299"
+
+- year: 2021
+  status: published
+  text: "Ford, J., Jreidini, N., Crandall, K.E., **Sanderson, S.**, and Xu. C.C.Y. (2021) Promoting equity and inclusion with student-driven initiatives. *Trends in Ecology & Evolution*. 36 (12), 6053-6065."
+  doi: "https://doi.org/10.1016/j.tree.2021.08.013"
+
+- year: 2021
+  status: published
+  text: "**Sanderson, S**., Derry, A.M., and Hendry, A.P., (2021). Phenotypic stability in scalar calcium of freshwater fish across a wide range of aqueous calcium availability in nature. *Ecology and Evolution*. 11 (11), 6053-6065."
+  doi: "https://doi.org/10.1002/ece3.7386"
+
+- year: 2021
+  status: published
+  text: "Astorg, L., **Sanderson, S**., Côté-Gravel, V., Sorbara, F., Windle, M.J.S., Hendry, A.P., and Derry, A.M. (2021). Different refuge types dampen exotic invasion and enhance diversity at the whole ecosystem scale in a heterogeneous river system. *Biological Invasions*, 23, 443-460."
+  doi: "https://link.springer.com/article/10.1007/s10530-020-02374-7"
+
+- year: 2019
+  status: published
+  text: "Akong Minang, P., ... **Sanderson, S**., ... Zayas, N.C., (2019). Rapid evolution. IPBES Global Assessment on Biodiversity and Ecosystem Services. pp 61-63."
+
+- status: in_review
+  text: "**Sanderson, S**., Eckert, L., Barrett, RDH., Reimchen, TE., and Hendry AP. (*in review*) Contemporary evolution of an at-risk stickleback population during a severe drought. *Evolutionary Applications.*"
+
+- status: in_review
+  text: "Haines, GE., **Sanderson, S**., Morin-Nadeau, R., Grégoire, M., and Hendry, AP. (*in review*) Change in threespine stickleback (*Gasterosteus aculeatus*) defensive traits following stocking of brook trout (*Salvelinus fontinalis*), a native predator. *The American Naturalist.*"
+
+- status: in_review
+  text: "Nguyen, JA., Stilwell, JM., **Sanderson S**., Nietlisbach, NA., Long C., Leis E., Hehenberger E, Woodyard ET., Hsu HM., Griffin MJ., and Rosser TG. (*in review*) *Haidadinium pseudosporum* N. SP. (*Suessiaceae, dinophyceae*): an enigmatic \"mesomycetozoean-like\" dinoflagetllate parasite of fish in the Great Lakes region. *Journal of Parasitology.*"
